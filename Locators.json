@@ -1,0 +1,42 @@
+{
+    "Header" : {
+        "Login" : ".nav-link", 
+        "Register" : ".nav-link" 
+    },
+
+    "Login":{
+        "Email":"#email",
+        "Password":"#password",
+        "Submit":".btn"
+    },
+
+    "Register" : {
+
+        "Title":".title-style",
+        "FirstName":"#first-name",
+        "LastName":"#last-name",
+        "Email" : "#email",
+        "Password" : "#password",
+        "ConfirmPass":"#password-confirmation",
+        "Checkbox":".form-check-input",
+        "Accepted":".form-check-label",
+        "Submit" : ".btn",
+        "Alert":".alert"
+
+    },
+
+    "Create":{
+        "Link":".nav-link",
+        "Title":"#title",
+        "Description":"#description",
+        "PoljaZaCreate":".form-group",
+        "Submit":".btn",
+        "BigTitle":".title-style",
+        "Gal":".box-title",
+        "ImagesLink":".form-control",
+        "Albumi":".grid",
+        "AddImages":".container"
+
+
+    }
+ }
